@@ -12,6 +12,7 @@ class App extends Component {
         </div>
         <p className="App-intro">
            I was changed
+           I am changing the core page
         </p>
       </div>
     );
